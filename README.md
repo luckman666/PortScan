@@ -1,4 +1,4 @@
-运行命令`python main.py -h`
+
 
 运行命令`python main.py -d 192.168.1.102 -t 1200 -w 9 `
 
@@ -8,7 +8,7 @@
 多线程高效的端口扫描器
 
 **python版本：3.x**
-
+运行命令`python main.py -h`
 ```python
 -h			帮助
 -d			输入的主机名
