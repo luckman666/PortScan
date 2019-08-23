@@ -1,7 +1,15 @@
 
 
-运行命令`python main.py -d 192.168.1.102 -t 1200 -w 9 `
 
+git clone https://github.com/luckman666/PortScan.git
+
+cd PortScan
+
+# 192.168.1.102 也可以填写域名 1200线程数，9秒timeout
+
+# 用python3写的请用python3以上版本
+
+python main.py -d 192.168.1.102 -t 1200 -w 9
 
 ### 说明
 
