@@ -1,6 +1,6 @@
 
 
-
+```
 git clone https://github.com/luckman666/PortScan.git
 
 cd PortScan
@@ -10,7 +10,7 @@ cd PortScan
 # 用python3写的请用python3以上版本
 
 python main.py -d 192.168.1.102 -t 1200 -w 9
-
+```
 ### 说明
 
 多线程高效的端口扫描器
